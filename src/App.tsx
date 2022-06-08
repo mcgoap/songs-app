@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import AboutBand from "./components/Band/AboutBand";
 import DiscsBand from "./components/Band/DiscsBand";
+//teste GIT
 
 export interface Band {
   name: string;
