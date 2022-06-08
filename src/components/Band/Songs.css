@@ -1,0 +1,28 @@
+ul {
+  list-style: none;
+  color: green;
+}
+
+button {
+  background-color: #457b9d;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #1d3557;
+}
+
+ol {
+  padding-left: 30px;
+  line-height: 1.5;
+}
+
+.songs-list {
+  margin-bottom: 30px;
+}

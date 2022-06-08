@@ -1,0 +1,35 @@
+.about-band {
+  flex-direction: column;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #1d3557;
+}
+
+.about-band h2 {
+  color: #1d3557;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.about-band p {
+  color: #303030;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.about-band li {
+  color: #303030;
+  line-height: 1.5;
+}
+
+.about-band ul {
+  color: black;
+  padding-left: 10px;
+  margin-top: 0px;
+}
